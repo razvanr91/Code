@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\ref\TopLevelProgram.dll
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+E:\Coding\C# Book\Code\Chapter01-vscode\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache

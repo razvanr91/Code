@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b8d0e2f-54a7-4ecd-b726-e9f94fbbf19c": {
+      "ProjectGuid": "9b8d0e2f-54a7-4ecd-b726-e9f94fbbf19c",
+      "DisplayName": "HelloCS",
+      "ColorIndex": 0
+    },
+    "5864de9a-3e55-4409-8922-65116de1bfdd": {
+      "ProjectGuid": "5864de9a-3e55-4409-8922-65116de1bfdd",
+      "DisplayName": "TopLevelProgram",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNYS/iMnUJKWazVa1aDQQ9e+3MOeB7fltpGQttt3iBnhM63Dm5wOIa/LWERXbN6kZIDb5qjWQ/o00ls1D9buig==",
+  "success": true,
+  "projectFilePath": "E:\\Coding\\C# Book\\Code\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razZ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
