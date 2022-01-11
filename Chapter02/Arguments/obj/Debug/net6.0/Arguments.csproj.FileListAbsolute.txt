@@ -1,0 +1,17 @@
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\Arguments.exe
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\Arguments.deps.json
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\Arguments.dll
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\ref\Arguments.dll
+E:\Coding\C# Book\Code\Chapter02\Arguments\bin\Debug\net6.0\Arguments.pdb
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.dll
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.Properties.Resources.resources
+E:\Coding\C# Book\Code\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.GenerateResource.cache
