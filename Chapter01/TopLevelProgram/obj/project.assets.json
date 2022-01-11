@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CoderFoundry\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
+      "projectUniqueName": "E:\\Coding\\C# Book\\Code\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
       "projectName": "TopLevelProgram",
-      "projectPath": "E:\\CoderFoundry\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
+      "projectPath": "E:\\Coding\\C# Book\\Code\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
       "packagesPath": "C:\\Users\\razZ\\.nuget\\packages\\",
-      "outputPath": "E:\\CoderFoundry\\Chapter01\\TopLevelProgram\\obj\\",
+      "outputPath": "E:\\Coding\\C# Book\\Code\\Chapter01\\TopLevelProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

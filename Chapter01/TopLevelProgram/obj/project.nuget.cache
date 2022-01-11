@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUld8TsLRJwolmgnPlYpsVpavU5Dq8bejHnqMc8pAl2WktZYZDBZPG+ZqhNPPJ45oSt3YiEq1G2VWeVqJoUufg==",
+  "dgSpecHash": "8wUgsy3+XyEOI2rX+xzE9wog6iqxa6dRMQ+O4C+XbErzBan29qgeIRWh1dd4JUXAljXRX6vYJue322g4t7ctgg==",
   "success": true,
-  "projectFilePath": "E:\\CoderFoundry\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
+  "projectFilePath": "E:\\Coding\\C# Book\\Code\\Chapter01\\TopLevelProgram\\TopLevelProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
