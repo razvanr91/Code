@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\ref\SelectionStatements.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
