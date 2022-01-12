@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\Operators.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\Operators.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\Operators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\ref\Operators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\bin\Debug\net6.0\Operators.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\ref\Operators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache

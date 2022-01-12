@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\ref\BooleanOperators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\ref\BooleanOperators.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.genruntimeconfig.cache
