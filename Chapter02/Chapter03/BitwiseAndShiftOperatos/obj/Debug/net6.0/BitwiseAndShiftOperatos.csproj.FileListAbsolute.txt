@@ -1,0 +1,14 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\BitwiseAndShiftOperatos.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\BitwiseAndShiftOperatos.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\BitwiseAndShiftOperatos.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\BitwiseAndShiftOperatos.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\ref\BitwiseAndShiftOperatos.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\bin\Debug\net6.0\BitwiseAndShiftOperatos.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\ref\BitwiseAndShiftOperatos.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\BitwiseAndShiftOperatos\obj\Debug\net6.0\BitwiseAndShiftOperatos.genruntimeconfig.cache
