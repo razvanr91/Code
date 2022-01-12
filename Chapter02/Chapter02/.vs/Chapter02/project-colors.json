@@ -5,7 +5,17 @@
       "ProjectGuid": "17010b4c-2cf1-4bd0-947c-602f89a04a11",
       "DisplayName": "Formatting",
       "ColorIndex": 0
+    },
+    "eafcf70e-c9ff-496b-a125-3fe683efe5f7": {
+      "ProjectGuid": "eafcf70e-c9ff-496b-a125-3fe683efe5f7",
+      "DisplayName": "Arguments",
+      "ColorIndex": 1
+    },
+    "8a5d140f-ba68-44fb-86b9-2e7d16cac083": {
+      "ProjectGuid": "8a5d140f-ba68-44fb-86b9-2e7d16cac083",
+      "DisplayName": "Exercise02",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
