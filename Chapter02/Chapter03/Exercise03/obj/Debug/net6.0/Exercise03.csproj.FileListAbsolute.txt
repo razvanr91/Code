@@ -1,0 +1,14 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\ref\Exercise03.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\Exercise03\obj\Debug\net6.0\Exercise03.genruntimeconfig.cache

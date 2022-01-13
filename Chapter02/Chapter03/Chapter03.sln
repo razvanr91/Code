@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "Handl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingForOverflow", "CheckingForOverflow\CheckingForOverflow.csproj", "{6F92D9ED-B92B-4DEF-8708-A962F39838F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02", "Exercise02\Exercise02.csproj", "{0958B29C-9704-410E-A0FF-623E37D9BD37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise03", "Exercise03\Exercise03.csproj", "{EF958D43-E16A-4956-871D-68EF24F8905E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{6F92D9ED-B92B-4DEF-8708-A962F39838F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F92D9ED-B92B-4DEF-8708-A962F39838F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F92D9ED-B92B-4DEF-8708-A962F39838F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0958B29C-9704-410E-A0FF-623E37D9BD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0958B29C-9704-410E-A0FF-623E37D9BD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0958B29C-9704-410E-A0FF-623E37D9BD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0958B29C-9704-410E-A0FF-623E37D9BD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF958D43-E16A-4956-871D-68EF24F8905E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF958D43-E16A-4956-871D-68EF24F8905E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF958D43-E16A-4956-871D-68EF24F8905E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF958D43-E16A-4956-871D-68EF24F8905E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
