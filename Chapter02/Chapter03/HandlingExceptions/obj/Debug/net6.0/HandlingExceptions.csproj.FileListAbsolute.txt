@@ -1,0 +1,14 @@
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\ref\HandlingExceptions.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+E:\Coding\C# Book\Code\Chapter02\Chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
