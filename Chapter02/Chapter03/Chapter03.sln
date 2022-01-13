@@ -5,11 +5,17 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{389A7CE3-914E-4E0A-BA71-221C4E40A0B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{7E28EF21-95E6-46E9-81C3-539531E6707F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanOperators", "BooleanOperators\BooleanOperators.csproj", "{7E28EF21-95E6-46E9-81C3-539531E6707F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseAndShiftOperatos", "BitwiseAndShiftOperatos\BitwiseAndShiftOperatos.csproj", "{2A1E4875-7901-4E1A-A67C-E9799FEFEDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseAndShiftOperatos", "BitwiseAndShiftOperatos\BitwiseAndShiftOperatos.csproj", "{2A1E4875-7901-4E1A-A67C-E9799FEFEDEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{2FF429A4-27F9-43DC-9061-454C0FD15CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionStatements", "SelectionStatements\SelectionStatements.csproj", "{2FF429A4-27F9-43DC-9061-454C0FD15CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{06E33D8E-1352-400F-AF6A-0A10050CF1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingConverting", "CastingConverting\CastingConverting.csproj", "{DEC77FAB-D410-43EB-B970-1B7FC33028F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptions", "HandlingExceptions\HandlingExceptions.csproj", "{D20BBB3A-7F7F-4887-8138-22B8720981DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{2FF429A4-27F9-43DC-9061-454C0FD15CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF429A4-27F9-43DC-9061-454C0FD15CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF429A4-27F9-43DC-9061-454C0FD15CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E33D8E-1352-400F-AF6A-0A10050CF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E33D8E-1352-400F-AF6A-0A10050CF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E33D8E-1352-400F-AF6A-0A10050CF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E33D8E-1352-400F-AF6A-0A10050CF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC77FAB-D410-43EB-B970-1B7FC33028F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC77FAB-D410-43EB-B970-1B7FC33028F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC77FAB-D410-43EB-B970-1B7FC33028F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC77FAB-D410-43EB-B970-1B7FC33028F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20BBB3A-7F7F-4887-8138-22B8720981DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20BBB3A-7F7F-4887-8138-22B8720981DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20BBB3A-7F7F-4887-8138-22B8720981DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20BBB3A-7F7F-4887-8138-22B8720981DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
