@@ -20,7 +20,42 @@
       "ProjectGuid": "2ff429a4-27f9-43dc-9061-454c0fd15cc0",
       "DisplayName": "SelectionStatements",
       "ColorIndex": 3
+    },
+    "06e33d8e-1352-400f-af6a-0a10050cf1e7": {
+      "ProjectGuid": "06e33d8e-1352-400f-af6a-0a10050cf1e7",
+      "DisplayName": "IterationStatements",
+      "ColorIndex": 4
+    },
+    "dec77fab-d410-43eb-b970-1b7fc33028f3": {
+      "ProjectGuid": "dec77fab-d410-43eb-b970-1b7fc33028f3",
+      "DisplayName": "CastingConverting",
+      "ColorIndex": 5
+    },
+    "d20bbb3a-7f7f-4887-8138-22b8720981dc": {
+      "ProjectGuid": "d20bbb3a-7f7f-4887-8138-22b8720981dc",
+      "DisplayName": "HandlingExceptions",
+      "ColorIndex": 6
+    },
+    "6f92d9ed-b92b-4def-8708-a962f39838f5": {
+      "ProjectGuid": "6f92d9ed-b92b-4def-8708-a962f39838f5",
+      "DisplayName": "CheckingForOverflow",
+      "ColorIndex": 7
+    },
+    "0958b29c-9704-410e-a0ff-623e37d9bd37": {
+      "ProjectGuid": "0958b29c-9704-410e-a0ff-623e37d9bd37",
+      "DisplayName": "Exercise02",
+      "ColorIndex": 8
+    },
+    "ef958d43-e16a-4956-871d-68ef24f8905e": {
+      "ProjectGuid": "ef958d43-e16a-4956-871d-68ef24f8905e",
+      "DisplayName": "Exercise03",
+      "ColorIndex": 9
+    },
+    "61925dd2-78b5-4201-b24d-fe05d7e7225a": {
+      "ProjectGuid": "61925dd2-78b5-4201-b24d-fe05d7e7225a",
+      "DisplayName": "Exercise04",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 11
 }
