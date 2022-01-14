@@ -53,18 +53,17 @@ static decimal CalculateTax(decimal amount, string twoLetterRegionalCode)
 }
 
 
-
+/// <summary>
+/// Pass a 32-bit integer and it will be converted into its ortinal equivalent.
+/// </summary>
+/// <param name="number">
+/// Number is a cardinal value e.g. 1,2,3 and so on.
+/// </param>
+/// <return>
+/// Number as an orinal value e.g. 1st, 2nd, 3rd, 4th and so on.
+/// </return>
 static string CardinalToOrdinal(int number)
 {
-    /// <summary>
-    /// Pass a 32-bit integer and it will be converted into its ortinal equivalent.
-    /// </summary>
-    /// <param name="number">
-    /// Number is a cardinal value e.g. 1,2,3 and so on.
-    /// </param>
-    /// <return>
-    /// Number as an orinal value e.g. 1st, 2nd, 3rd, 4th and so on.
-    /// </return>
     switch (number)
     {
         case 11: // special cases
@@ -128,6 +127,46 @@ static void RunFactorial()
     }
 }
 
+static int FibImperative(int term)
+{
+    if (term == 1)
+    {
+        return 0;
+    }
+    else if(term == 2)
+    {
+        return 1;
+    }
+    else
+    {
+        return FibImperative(term - 1) + FibImperative(term - 2);
+    }
+}
+
+//static void RunFibImperative()
+//{
+//    for(int i = 1; i <= 30; i++)
+//    {
+//        WriteLine($"The {CardinalToOrdinal(i)} term of the Fibonacci sequence is {FibImperative(term: i):N0}");
+//    }
+//}
+
+static int FibFunctional(int term) =>
+    term switch
+    {
+        1 => 0,
+        2 => 1,
+        _ => FibFunctional(term -1) + FibFunctional(term - 2)
+    };
+
+static void RunFibFunctional()
+{
+    for(int i = 1; i <= 30; i++)
+    {
+        WriteLine($"The {CardinalToOrdinal(i)} term of the Fibonacci sequence is {FibFunctional(term: i):N0}.");
+    }
+}
+
 //TimesTable(6);
 
 //decimal taxToPay = CalculateTax(amount: 149, twoLetterRegionalCode: "GB");
@@ -135,4 +174,8 @@ static void RunFactorial()
 
 //RunCardinalToOrdinal();
 
-RunFactorial();
+//RunFactorial();
+
+//RunFibImperative();
+
+RunFibFunctional();
