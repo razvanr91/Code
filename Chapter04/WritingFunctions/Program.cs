@@ -3,7 +3,7 @@
 static void TimesTable(byte number)
 {
     WriteLine($"This is the {number} times table:");
-    for(int row = 1; row <= 12; row++)
+    for (int row = 1; row <= 12; row++)
     {
         Console.WriteLine($"{row} x {number} = {row * number}");
     }
@@ -52,9 +52,20 @@ static decimal CalculateTax(decimal amount, string twoLetterRegionalCode)
     return amount * rate;
 }
 
+
+
 static string CardinalToOrdinal(int number)
 {
-    switch(number)
+    /// <summary>
+    /// Pass a 32-bit integer and it will be converted into its ortinal equivalent.
+    /// </summary>
+    /// <param name="number">
+    /// Number is a cardinal value e.g. 1,2,3 and so on.
+    /// </param>
+    /// <return>
+    /// Number as an orinal value e.g. 1st, 2nd, 3rd, 4th and so on.
+    /// </return>
+    switch (number)
     {
         case 11: // special cases
         case 12:
@@ -75,11 +86,46 @@ static string CardinalToOrdinal(int number)
 
 static void RunCardinalToOrdinal()
 {
-    for(int i = 1; i <= 40; i++)
+    for (int i = 1; i <= 40; i++)
     {
         Write($"{CardinalToOrdinal(i)} ");
     }
     WriteLine();
+}
+
+static int Factorial(int number)
+{
+    if (number < 1)
+    {
+        return 0;
+    }
+    else if (number == 1)
+    {
+        return 1;
+    }
+    else
+    {
+        checked
+        {
+            return number * Factorial(number - 1);
+        }
+    }
+}
+
+static void RunFactorial()
+{
+    for (int i = 1; i < 15; i++)
+    {
+        try
+        {
+            WriteLine($"{i}! = {Factorial(i):N0}");
+        }
+        catch (System.OverflowException)
+        {
+            WriteLine($"{i}! is too big for a 32-bit integer.");
+        }
+
+    }
 }
 
 //TimesTable(6);
@@ -87,4 +133,6 @@ static void RunCardinalToOrdinal()
 //decimal taxToPay = CalculateTax(amount: 149, twoLetterRegionalCode: "GB");
 //WriteLine($"You must pay {taxToPay:C} in tax.");
 
-RunCardinalToOrdinal();
+//RunCardinalToOrdinal();
+
+RunFactorial();
