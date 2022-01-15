@@ -1,0 +1,11 @@
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\bin\Release\net6.0\CallStackExceptionHandlingLib.deps.json
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\bin\Release\net6.0\CallStackExceptionHandlingLib.dll
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\bin\Release\net6.0\ref\CallStackExceptionHandlingLib.dll
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\bin\Release\net6.0\CallStackExceptionHandlingLib.pdb
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.dll
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\ref\CallStackExceptionHandlingLib.dll
+E:\Coding\C# Book\Code\Chapter04\CallStackExceptionHandlingLib\obj\Release\net6.0\CallStackExceptionHandlingLib.pdb
