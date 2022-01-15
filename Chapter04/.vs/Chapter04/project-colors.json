@@ -5,7 +5,17 @@
       "ProjectGuid": "b3b3fa68-4c84-4e0f-b3aa-1add10ec18f4",
       "DisplayName": "WritingFunctions",
       "ColorIndex": 0
+    },
+    "8e5621e2-f534-41ad-91a1-e1cc031f7a51": {
+      "ProjectGuid": "8e5621e2-f534-41ad-91a1-e1cc031f7a51",
+      "DisplayName": "Debugging",
+      "ColorIndex": 1
+    },
+    "1e8f5913-c29e-4d11-a476-ef30518763cf": {
+      "ProjectGuid": "1e8f5913-c29e-4d11-a476-ef30518763cf",
+      "DisplayName": "Instrumenting",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
