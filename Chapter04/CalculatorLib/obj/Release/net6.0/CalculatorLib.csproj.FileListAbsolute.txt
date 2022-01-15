@@ -1,0 +1,11 @@
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\bin\Release\net6.0\CalculatorLib.deps.json
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\bin\Release\net6.0\CalculatorLib.dll
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\bin\Release\net6.0\ref\CalculatorLib.dll
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\bin\Release\net6.0\CalculatorLib.pdb
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.dll
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\ref\CalculatorLib.dll
+E:\Coding\C# Book\Code\Chapter04\CalculatorLib\obj\Release\net6.0\CalculatorLib.pdb

@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\Debugging.exe
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\Debugging.deps.json
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\Debugging.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\Debugging.dll
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\ref\Debugging.dll
+E:\Coding\C# Book\Code\Chapter04\Debugging\bin\Release\net6.0\Debugging.pdb
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.dll
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\ref\Debugging.dll
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.pdb
+E:\Coding\C# Book\Code\Chapter04\Debugging\obj\Release\net6.0\Debugging.genruntimeconfig.cache

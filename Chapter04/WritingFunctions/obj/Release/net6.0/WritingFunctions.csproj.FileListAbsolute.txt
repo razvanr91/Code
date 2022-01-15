@@ -1,0 +1,15 @@
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\WritingFunctions.exe
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\WritingFunctions.deps.json
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\WritingFunctions.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\WritingFunctions.dll
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\ref\WritingFunctions.dll
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\bin\Release\net6.0\WritingFunctions.pdb
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.dll
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\ref\WritingFunctions.dll
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.pdb
+E:\Coding\C# Book\Code\Chapter04\WritingFunctions\obj\Release\net6.0\WritingFunctions.genruntimeconfig.cache
