@@ -15,7 +15,27 @@
       "ProjectGuid": "1e8f5913-c29e-4d11-a476-ef30518763cf",
       "DisplayName": "Instrumenting",
       "ColorIndex": 2
+    },
+    "141627fe-56a4-4cce-9a9d-17eaa6fd62fd": {
+      "ProjectGuid": "141627fe-56a4-4cce-9a9d-17eaa6fd62fd",
+      "DisplayName": "CalculatorLib",
+      "ColorIndex": 3
+    },
+    "b2d447bf-ca1e-44ac-9f1c-918c1fdc7510": {
+      "ProjectGuid": "b2d447bf-ca1e-44ac-9f1c-918c1fdc7510",
+      "DisplayName": "CalculatorLibUnitTests",
+      "ColorIndex": 4
+    },
+    "6a0792ad-9d4f-4dee-9c8d-00a58f8d617c": {
+      "ProjectGuid": "6a0792ad-9d4f-4dee-9c8d-00a58f8d617c",
+      "DisplayName": "CallStackExceptionHandlingLib",
+      "ColorIndex": 5
+    },
+    "ac68ff8d-54c0-4307-be7f-449786078ba9": {
+      "ProjectGuid": "ac68ff8d-54c0-4307-be7f-449786078ba9",
+      "DisplayName": "CallStackExceptionHandling",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
