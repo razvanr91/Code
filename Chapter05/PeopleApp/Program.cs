@@ -57,3 +57,11 @@ WriteLine($"{gerrierAccount.AccountName} earned {gerrierAccount.Balance * BankAc
 WriteLine($"{bob.Name} is a {Person.Species}.");
 
 WriteLine($"{bob.Name} was born on {bob.HomePlanet}.");
+
+Person blankPerson = new();
+
+WriteLine($"{blankPerson.Name} of {blankPerson.HomePlanet} was created at {blankPerson.Instantiated:hh:mm:ss} on a {blankPerson.Instantiated:dddd}.");
+
+Person gunny = new(initialName: "Gunny", homePlanet: "Mars");
+
+WriteLine($"{gunny.Name} of {gunny.HomePlanet} was created at {gunny.Instantiated:hh:mm:ss} on a {gunny.Instantiated:dddd}.");
