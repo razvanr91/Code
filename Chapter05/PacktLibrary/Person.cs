@@ -66,5 +66,15 @@ namespace Packt.Shared
             dob= DateOfBIrth;
             fav = FavoriteAncientWonder;
         }
+
+        public string SayHello()
+        {
+            return $"{Name} says 'Hello!'.";
+        }
+
+        public string SayHello(string name)
+        {
+            return $"{Name} says 'Hello {name}!'.";
+        }
     }
 }
