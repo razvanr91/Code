@@ -92,3 +92,8 @@ WriteLine($"Deconstructed: {name2}, {dob2}, {fav2}");
 WriteLine(bob.SayHello());
 
 WriteLine(bob.SayHello("Razvan"));
+
+WriteLine(bob.OptionalParameters());
+
+WriteLine(bob.OptionalParameters("Jump!", 98.5));
+WriteLine(bob.OptionalParameters());
