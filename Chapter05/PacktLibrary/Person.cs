@@ -18,5 +18,7 @@ namespace Packt.Shared
         public WondersOfTheAncientWorld BucketList;
 
         public const string Species = "Homo Sapien";
+
+        public readonly string HomePlanet = "Earth";
     }
 }

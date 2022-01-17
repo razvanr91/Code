@@ -55,3 +55,5 @@ gerrierAccount.Balance = 98;
 WriteLine($"{gerrierAccount.AccountName} earned {gerrierAccount.Balance * BankAccount.InterestRate:c} interest.");
 
 WriteLine($"{bob.Name} is a {Person.Species}.");
+
+WriteLine($"{bob.Name} was born on {bob.HomePlanet}.");
