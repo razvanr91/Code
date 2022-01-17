@@ -36,5 +36,21 @@ namespace Packt.Shared
             HomePlanet = homePlanet;
             Instantiated= DateTime.Now;
         }
+
+        // methods
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on {DateOfBIrth:dddd}.");
+        }
+
+        public string GetOrigin()
+        {
+            return $"{Name} was born on {HomePlanet}.";
+        }
+
+        public (string, int) GetFruit()
+        {
+            return ("Apples", 5);
+        }
     }
 }
