@@ -52,5 +52,19 @@ namespace Packt.Shared
         {
             return ("Apples", 5);
         }
+
+        // deconstructors
+        public void Deconstruct(out string name, out DateTime dob)
+        {
+            name = Name;
+            dob = DateOfBIrth;
+        }
+
+        public void Deconstruct(out string name, out DateTime dob, out WondersOfTheAncientWorld fav)
+        {
+            name = Name;
+            dob= DateOfBIrth;
+            fav = FavoriteAncientWonder;
+        }
     }
 }
