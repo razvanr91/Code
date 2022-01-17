@@ -81,5 +81,15 @@ namespace Packt.Shared
         {
             return $"Command is {command}, number is {number}, active is {active}.";
         }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            // out parameters cannot have a default and must be initialized inside the method
+
+            z = 99;
+            x++;
+            y++;
+            z++;
+        }
     }
 }

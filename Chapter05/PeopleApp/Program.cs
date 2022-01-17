@@ -100,3 +100,16 @@ WriteLine(bob.OptionalParameters());
 
 WriteLine(bob.OptionalParameters(number: 52.7, command: "Hide!"));
 WriteLine(bob.OptionalParameters("Poke!", active: false));
+
+int a = 10;
+int b = 20;
+int c = 30;
+WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+bob.PassingParameters(a, ref b, out c);
+WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+int d = 10;
+int e = 20;
+WriteLine($"Before: d = {d}, e = {e}, f doesn`t exist yet!");
+bob.PassingParameters(d, ref e, out int f);
+WriteLine($"After: d = {d}, e = {e}, f = {f}");
