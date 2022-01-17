@@ -38,3 +38,20 @@ foreach(Person child in bob.Children)
 {
     WriteLine(child.Name);
 }
+
+BankAccount.InterestRate = 0.012M;
+
+BankAccount jonesAccount = new();
+
+jonesAccount.AccountName = "Mrs. Jones";
+jonesAccount.Balance = 2400;
+
+WriteLine($"{jonesAccount.AccountName} earned {jonesAccount.Balance * BankAccount.InterestRate:C} interest.");
+
+BankAccount gerrierAccount = new();
+gerrierAccount.AccountName = "Ms. Gerrier";
+gerrierAccount.Balance = 98;
+
+WriteLine($"{gerrierAccount.AccountName} earned {gerrierAccount.Balance * BankAccount.InterestRate:c} interest.");
+
+WriteLine($"{bob.Name} is a {Person.Species}.");

@@ -16,5 +16,7 @@ namespace Packt.Shared
         public WondersOfTheAncientWorld FavoriteAncientWonder;
 
         public WondersOfTheAncientWorld BucketList;
+
+        public const string Species = "Homo Sapien";
     }
 }
