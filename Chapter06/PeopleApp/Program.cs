@@ -21,3 +21,4 @@ WriteLine($"{jill.Name} has {jill.Children.Count} children.");
 
 WriteLine($"{harry.Name}'s first child is named \"{harry.Children[0].Name}\".");
 
+WriteLine($"5! is {Person.Factorial(5)}");
