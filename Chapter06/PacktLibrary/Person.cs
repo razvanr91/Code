@@ -11,6 +11,27 @@ public class Person : object
 
     public List<Person> Children = new();
 
+    // delegate field
+    public EventHandler? Shout;
+
+    // data field
+    public int AngerLevel;
+
+    // method
+    public void Poke()
+    {
+        AngerLevel++;
+        if(AngerLevel >= 3)
+        {
+            // if something is listening
+            if(Shout != null)
+            {
+                // then call the delegate
+                Shout(this, EventArgs.Empty);
+            }
+        }
+    }
+
     public void WriteToConsole()
     {
         WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
