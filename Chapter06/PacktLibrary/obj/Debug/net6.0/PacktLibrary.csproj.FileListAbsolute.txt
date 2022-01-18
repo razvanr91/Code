@@ -1,0 +1,12 @@
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\bin\Debug\net6.0\ref\PacktLibrary.dll
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll
+E:\Coding\C# Book\Code\Chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
