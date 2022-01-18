@@ -1,0 +1,12 @@
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.deps.json
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.dll
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\bin\Debug\net6.0\ref\PacktLibraryModern.dll
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.pdb
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.AssemblyReference.cache
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.dll
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\ref\PacktLibraryModern.dll
+E:\Coding\C# Book\Code\Chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.pdb

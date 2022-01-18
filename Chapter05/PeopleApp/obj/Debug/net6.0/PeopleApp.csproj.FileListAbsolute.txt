@@ -16,3 +16,5 @@ E:\Coding\C# Book\Code\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.dll
 E:\Coding\C# Book\Code\Chapter05\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
 E:\Coding\C# Book\Code\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 E:\Coding\C# Book\Code\Chapter05\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
+E:\Coding\C# Book\Code\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.dll
+E:\Coding\C# Book\Code\Chapter05\PeopleApp\bin\Debug\net6.0\PacktLibraryModern.pdb

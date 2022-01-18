@@ -15,7 +15,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "53645ee6-9567-48b9-bbe2-abfacc66d81d": {
+      "ProjectGuid": "53645ee6-9567-48b9-bbe2-abfacc66d81d",
+      "DisplayName": "PacktLibraryModern",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
