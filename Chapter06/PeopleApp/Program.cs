@@ -61,3 +61,24 @@ lookupIntString.Add(key: 4, value: "Delta");
 
 key = 3;
 WriteLine($"Key {key} has value: {lookupIntString[key]}.");
+
+Person[] people =
+{
+    new() {Name = "Simon"},
+    new() {Name = "Jenny"},
+    new() {Name = "Adam"},
+    new() {Name = "Richard"}
+};
+
+WriteLine("Initial list of people:");
+foreach(Person p in people)
+{
+    WriteLine($"    {p.Name}");
+}
+
+WriteLine("Use Person's ICOmparable implementation to sort:");
+Array.Sort(people);
+foreach(Person p in people)
+{
+    WriteLine($"    {p.Name}");
+}
