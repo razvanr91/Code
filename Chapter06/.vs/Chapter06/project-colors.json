@@ -10,7 +10,12 @@
       "ProjectGuid": "444673cb-fde1-460d-b64c-df65ef1ffbd4",
       "DisplayName": "PeopleApp",
       "ColorIndex": 1
+    },
+    "39ae91a8-fecb-485b-a529-5ce3a4d162a8": {
+      "ProjectGuid": "39ae91a8-fecb-485b-a529-5ce3a4d162a8",
+      "DisplayName": "NullHandling",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
