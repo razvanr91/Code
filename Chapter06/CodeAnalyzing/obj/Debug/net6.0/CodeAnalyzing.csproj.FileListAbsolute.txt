@@ -12,3 +12,5 @@ E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.dl
 E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\ref\CodeAnalyzing.dll
 E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.pdb
 E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.genruntimeconfig.cache
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.xml
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.xml

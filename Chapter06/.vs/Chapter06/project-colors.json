@@ -15,7 +15,17 @@
       "ProjectGuid": "39ae91a8-fecb-485b-a529-5ce3a4d162a8",
       "DisplayName": "NullHandling",
       "ColorIndex": 2
+    },
+    "8bbf0056-8dbb-4e30-9396-cf702b0fc9e0": {
+      "ProjectGuid": "8bbf0056-8dbb-4e30-9396-cf702b0fc9e0",
+      "DisplayName": "CodeAnalyzing",
+      "ColorIndex": 3
+    },
+    "6b323c07-9e4f-49b4-8337-c36e83f77aa5": {
+      "ProjectGuid": "6b323c07-9e4f-49b4-8337-c36e83f77aa5",
+      "DisplayName": "Exercise02",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
