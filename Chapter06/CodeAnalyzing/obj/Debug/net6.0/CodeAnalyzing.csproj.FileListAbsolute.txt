@@ -1,0 +1,14 @@
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.exe
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.deps.json
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.runtimeconfig.json
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.dll
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\ref\CodeAnalyzing.dll
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\bin\Debug\net6.0\CodeAnalyzing.pdb
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfoInputs.cache
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.AssemblyInfo.cs
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.dll
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\ref\CodeAnalyzing.dll
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.pdb
+E:\Coding\C# Book\Code\Chapter06\CodeAnalyzing\obj\Debug\net6.0\CodeAnalyzing.genruntimeconfig.cache
