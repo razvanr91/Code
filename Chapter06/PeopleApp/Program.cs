@@ -51,3 +51,13 @@ WriteLine($"Key {key} has value {lookupObject[key]}.");
 
 // lookup the value that has harry as its key
 WriteLine($"Key {harry} has value: {lookupObject[harry]}.");
+
+// generic lookup collection
+Dictionary<int, string> lookupIntString = new();
+lookupIntString.Add(key: 1, value: "Alpha");
+lookupIntString.Add(key: 2, value: "Beta");
+lookupIntString.Add(key: 3, value: "Gamma");
+lookupIntString.Add(key: 4, value: "Delta");
+
+key = 3;
+WriteLine($"Key {key} has value: {lookupIntString[key]}.");
