@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37dd542a-2307-4c53-a097-213f50d33f26": {
+      "ProjectGuid": "37dd542a-2307-4c53-a097-213f50d33f26",
+      "DisplayName": "PacktLibrary",
+      "ColorIndex": 0
+    },
+    "444673cb-fde1-460d-b64c-df65ef1ffbd4": {
+      "ProjectGuid": "444673cb-fde1-460d-b64c-df65ef1ffbd4",
+      "DisplayName": "PeopleApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
