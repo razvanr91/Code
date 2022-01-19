@@ -37,3 +37,17 @@ harry.Poke();
 harry.Poke();
 harry.Poke();
 harry.Poke();
+
+// non-generic lookup collection
+System.Collections.Hashtable lookupObject = new();
+
+lookupObject.Add(key: 1, value: "Alpha");
+lookupObject.Add(key: 2, value: "Beta");
+lookupObject.Add(key: 3, value: "Gamma");
+lookupObject.Add(key: harry, value: "Delta");
+
+int key = 2;
+WriteLine($"Key {key} has value {lookupObject[key]}.");
+
+// lookup the value that has harry as its key
+WriteLine($"Key {harry} has value: {lookupObject[harry]}.");
